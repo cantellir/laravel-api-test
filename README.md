@@ -1,4 +1,4 @@
-# laravel Api Auth Tests - Step by Step
+# Laravel Api Auth Tests - Step by Step
 Pratical step-by-step how to build auth tests in a RESTful API made in Laravel 5.5
 
 ### Prerequisites
